@@ -3,3 +3,9 @@ GIT STATUS
 GIT ADD .
 GIT COMMIT -M " HERO"
 GIT STATUS
+
+git clone commands
+git clone (rep ourl)
+cd (repo name)
+
+
